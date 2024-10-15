@@ -1,0 +1,163 @@
+{
+  "contents": [
+    {
+      "data": {
+        "addon": "mendeley",
+        "kind": "folder",
+        "id": "696129c9-83ef-4355-ab8d-17e90e105908",
+        "name": "new",
+        "path": "/",
+        "parent_list_id": "ROOT",
+        "provider_list_id": "696129c9-83ef-4355-ab8d-17e90e105908"
+      },
+      "kind": "folder",
+      "name": "new",
+      "id": "696129c9-83ef-4355-ab8d-17e90e105908",
+      "urls": {
+        "fetch": "/api/v1/project/tcs7z/mendeley/citations/696129c9-83ef-4355-ab8d-17e90e105908/"
+      }
+    },
+    {
+      "data": {
+        "addon": "mendeley",
+        "kind": "folder",
+        "id": "d40ed2b5-35ee-4175-9b46-1d8ed03ef5d8",
+        "name": "Test collection",
+        "path": "/",
+        "parent_list_id": "ROOT",
+        "provider_list_id": "d40ed2b5-35ee-4175-9b46-1d8ed03ef5d8"
+      },
+      "kind": "folder",
+      "name": "Test collection",
+      "id": "d40ed2b5-35ee-4175-9b46-1d8ed03ef5d8",
+      "urls": {
+        "fetch": "/api/v1/project/tcs7z/mendeley/citations/d40ed2b5-35ee-4175-9b46-1d8ed03ef5d8/"
+      }
+    },
+    {
+      "csl": {
+        "id": "1ee25c70-bf55-3faf-a467-2182c1086b99",
+        "type": "article-journal",
+        "abstract": "Energy from biomass plays a large and growing role in the global energy system. Energy from biomass can make significant contributions to reducing carbon emissions, especially from difficult-to-decarbonize sectors like aviation, heavy transport, and manufacturing. But land-intensive bioenergy often entails substantial carbon emissions from land-use change as well as production, harvesting, and transportation. In addition, land-intensive bioenergy scales only with the utilization of vast amounts of land, a resource that is fundamentally limited in supply. Because of the land constraint, the intrinsically low yields of energy per unit of land area, and rapid technological progress in competing technologies, land intensive bioenergy makes the most sense as a transitional element of the global energy mix, playing an important role over the next few decades and then fading, probably after mid-century. Managing an effective trajectory for land-intensive bioenergy will require an unusual mix of policies and incentives that encourage appropriate utilization in the short term but minimize lock-in in the longer term.",
+        "author": [
+          {
+            "given": "Walter V.",
+            "family": "Reid"
+          },
+          {
+            "given": "Mariam K.",
+            "family": "Ali"
+          },
+          {
+            "given": "Christopher B.",
+            "family": "Field"
+          }
+        ],
+        "DOI": "10.1111/gcb.14883",
+        "ISSN": "13652486",
+        "issue": "1",
+        "container-title": "Global Change Biology",
+        "title": "The future of bioenergy",
+        "volume": "26",
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      "kind": "file",
+      "id": "1ee25c70-bf55-3faf-a467-2182c1086b99"
+    },
+    {
+      "csl": {
+        "id": "097501bb-fcae-357e-9264-1406ff9b29d3",
+        "type": "article-journal",
+        "abstract": "If bioenergy has a less negative impact on the climate than fossil energy, it may be optimal to have a significant increase in the use of bioenergy over time. Due to the difference in the way the climate is affected by the two types of energy, the future time path of the use of bioenergy may be non-monotonic: It may be optimal to first have an increase in its use, and later a reduction. Optimal taxes/subsidies are derived both for the first-best case and for the case of a constraint on the size of the fossil tax.",
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Hoel"
+          }
+        ],
+        "DOI": "10.1016/j.jeem.2020.102314",
+        "ISSN": "10960449",
+        "container-title": "Journal of Environmental Economics and Management",
+        "title": "The rise and fall of bioenergy",
+        "volume": "101",
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      "kind": "file",
+      "id": "097501bb-fcae-357e-9264-1406ff9b29d3"
+    },
+    {
+      "csl": {
+        "id": "c1cd8136-959a-3db4-a63a-386d2fcb991f",
+        "type": "article",
+        "title": "Setting up a local user Add a new user"
+      },
+      "kind": "file",
+      "id": "c1cd8136-959a-3db4-a63a-386d2fcb991f"
+    },
+    {
+      "csl": {
+        "id": "60fa13dd-ee94-3c9b-998d-bd76c2ae1eed",
+        "type": "legal_case",
+        "abstract": "dsaofjasdg",
+        "author": [
+          {
+            "given": null,
+            "family": "Jon Dou"
+          }
+        ],
+        "page": "100-110",
+        "title": "Title",
+        "volume": "2020",
+        "issued": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        }
+      },
+      "kind": "file",
+      "id": "60fa13dd-ee94-3c9b-998d-bd76c2ae1eed"
+    },
+    {
+      "csl": {
+        "id": "d1f14c30-203e-335f-bb87-f12e8ccdb4f6",
+        "type": "article",
+        "author": [
+          {
+            "given": null,
+            "family": "Test Test Test"
+          },
+          {
+            "given": null,
+            "family": "Test2 Test2"
+          }
+        ],
+        "publisher-place": "Lviv",
+        "page": "100-110",
+        "title": "TestTestTest",
+        "issued": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        }
+      },
+      "kind": "file",
+      "id": "d1f14c30-203e-335f-bb87-f12e8ccdb4f6"
+    }
+  ]
+}
